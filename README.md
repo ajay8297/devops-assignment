@@ -2,6 +2,9 @@
 
 [![Docker Compose Ready](https://img.shields.io/badge/Docker%20Compose-Ready-blue)](https://github.com/ajay8297/devops-assignment/blob/main/docker-compose.yml)
 
+
+🔗 **Docker Compose File:** [https://github.com/ajay8297/devops-assignment/blob/main/docker-compose.yml](https://github.com/ajay8297/devops-assignment/blob/main/docker-compose.yml)
+
 ## 🌐 EC2 Deployment
 This solution is deployed on AWS EC2 with:
 - Public IP: `18.141.8.212` (replace with your actual IP)
