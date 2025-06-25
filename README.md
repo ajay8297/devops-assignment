@@ -17,9 +17,9 @@ git clone https://github.com/ajay8297/devops-assignment.git
 cd devops-assignment
 docker-compose up --build -d
 🔗 Access Endpoints
-Service 1: http://<EC2-IP>/service1/ping
+Service 1: http://18.141.8.212/service1/ping
 
-Service 2: http://<EC2-IP>/service2/ping
+Service 2: http://18.141.8.212/service2/ping
 
 🔧 Key Configuration
 Nginx routes traffic to:
